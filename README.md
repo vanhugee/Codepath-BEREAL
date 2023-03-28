@@ -2,7 +2,7 @@
 
 Submitted by: **Huy Nguyen**
 
-**Name of your app** is an app that ... [TODO] 
+**Bereal Clone** is an app that clone Bereal [TODO] 
 
 Time spent: **4** hours spent in total
 
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/x5BFgp6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/x5BFgp6.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
